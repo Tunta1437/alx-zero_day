@@ -1,1 +1,3 @@
-touch
+git fetch origin main
+git checkout main
+git pull origin main
